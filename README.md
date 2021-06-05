@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K-Enin
 - 👀 I’m interested in math, embedded softwares, data science ...
 - 🌱 I’m currently working in C++, CMake, Python ...
-- 💞️ I’m looking to collaborate on interesting & challenging projects
+- 💞️ I’m looking to collaborate on exciting & challenging projects
 - 📫 How to reach me: kenin@mail.uni-mannheim.de
 
 <!---
